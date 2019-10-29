@@ -1,0 +1,22 @@
+{
+  "name": "cf-node-reverse-proxy",
+  "version": "1.0.0",
+  "description": "node http reverse proxy for cloud foundry",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtweber1992/cf-node-reverse-proxy.git"
+  },
+  "author": "drew weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewtweber1992/cf-node-reverse-proxy/issues"
+  },
+  "homepage": "https://github.com/andrewtweber1992/cf-node-reverse-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
